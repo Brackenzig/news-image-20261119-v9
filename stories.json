@@ -1,0 +1,359 @@
+{
+ "date": "2026-11-19",
+ "count": 43,
+ "region_counts": {
+  "EUROPE": 7,
+  "THE AMERICAS": 11,
+  "ASIA-PACIFIC": 12,
+  "MIDEAST": 7,
+  "AFRICA": 2,
+  "OCEANIA": 2,
+  "WORLD": 2
+ },
+ "stories": [
+  {
+   "n": 1,
+   "place": "SHENZHEN",
+   "topic": "SUMMIT",
+   "region": "ASIA-PACIFIC",
+   "headline": "Trump, Xi and Putin hold first three-way summit",
+   "sub": "The three nuclear powers meet at APEC in Shenzhen; arms control and the Iran war top the agenda."
+  },
+  {
+   "n": 2,
+   "place": "THE HAGUE",
+   "topic": "LAW",
+   "region": "EUROPE",
+   "headline": "World Court rules on Rohingya genocide",
+   "sub": "The ICJ rules in The Gambia's case over the 2017 campaign."
+  },
+  {
+   "n": 3,
+   "place": "ANTALYA",
+   "topic": "CLIMATE",
+   "region": "ASIA-PACIFIC",
+   "headline": "COP31 enters its final 48 hours",
+   "sub": "Ministers take over the text; 'phase out' and a $120bn fund still open."
+  },
+  {
+   "n": 4,
+   "place": "NEW YORK",
+   "topic": "GAMES",
+   "region": "WORLD",
+   "headline": "GTA VI arrives after a 13-year wait",
+   "sub": "Unlocks at midnight in each country. New Zealand first; 15.9m pre-orders banked. $79.99 on PS5 and Xbox, no PC yet."
+  },
+  {
+   "n": 5,
+   "place": "NASDAQ",
+   "topic": "MARKETS",
+   "region": "THE AMERICAS",
+   "headline": "Anthropic debuts in the biggest IPO on record",
+   "sub": "Priced at $83, above its range, the Claude maker raised $81.3bn and is valued near $1.5tn. Thursday's first trades set the real price. Up to a fifth went to retail."
+  },
+  {
+   "n": 6,
+   "place": "SHENZHEN",
+   "topic": "TRADE",
+   "region": "ASIA-PACIFIC",
+   "headline": "Xi sets out four APEC pillars",
+   "sub": "China pledges $20m and a research centre in Shenzhen."
+  },
+  {
+   "n": 7,
+   "place": "ODISHA",
+   "topic": "STORM",
+   "region": "ASIA-PACIFIC",
+   "headline": "Akvan bears down as 200,000 flee the coast",
+   "sub": "Red alerts in 11 districts; landfall near Puri due Friday."
+  },
+  {
+   "n": 8,
+   "place": "KYIV",
+   "topic": "WAR",
+   "region": "EUROPE",
+   "headline": "Left off the agenda, Ukraine watches Shenzhen",
+   "sub": "The war is off the agenda; Kyiv fears a carve-up."
+  },
+  {
+   "n": 9,
+   "place": "FLORIDA",
+   "topic": "WEATHER",
+   "region": "THE AMERICAS",
+   "headline": "Flooded Florida braces for still more rain",
+   "sub": "A foot of rain in Hollywood; 300 rescue calls in a night. Schools shut."
+  },
+  {
+   "n": 10,
+   "place": "SEOUL",
+   "topic": "EDUCATION",
+   "region": "ASIA-PACIFIC",
+   "headline": "Half a million sit Korea's Suneung",
+   "sub": "551,864 sit the exam at 1,312 sites; flights pause, phones blare an alert."
+  },
+  {
+   "n": 11,
+   "place": "PARIS",
+   "topic": "POLITICS",
+   "region": "EUROPE",
+   "headline": "M\u00e9lenchon could win, says France's justice minister",
+   "sub": "The hard-left leader is a plausible president, the minister concedes."
+  },
+  {
+   "n": 12,
+   "place": "RIYADH",
+   "topic": "GULF",
+   "region": "MIDEAST",
+   "headline": "Houthi missile downed over Riyadh",
+   "sub": "Debris falls on the financial district; officials say the danger has passed."
+  },
+  {
+   "n": 13,
+   "place": "BENGHAZI",
+   "topic": "CRIME",
+   "region": "AFRICA",
+   "headline": "Cocaine, millions of pills seized in east Libya",
+   "sub": "Officials display one of the country's biggest drug hauls."
+  },
+  {
+   "n": 14,
+   "place": "CARACAS",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "US and Venezuela restore ties.",
+   "sub": ""
+  },
+  {
+   "n": 15,
+   "place": "OTTAWA",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "Canada sanctions West Bank settlers.",
+   "sub": ""
+  },
+  {
+   "n": 16,
+   "place": "TOKYO",
+   "topic": "",
+   "region": "ASIA-PACIFIC",
+   "headline": "India and Japan review defence ties.",
+   "sub": ""
+  },
+  {
+   "n": 17,
+   "place": "JERUSALEM",
+   "topic": "",
+   "region": "MIDEAST",
+   "headline": "Eisenkot tapped to form a government.",
+   "sub": ""
+  },
+  {
+   "n": 18,
+   "place": "MANILA",
+   "topic": "",
+   "region": "ASIA-PACIFIC",
+   "headline": "US and Philippines sign a $2bn deal.",
+   "sub": ""
+  },
+  {
+   "n": 19,
+   "place": "WASHINGTON",
+   "topic": "",
+   "region": "MIDEAST",
+   "headline": "US sanctions a Hezbollah network.",
+   "sub": ""
+  },
+  {
+   "n": 20,
+   "place": "WASHINGTON",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "Russian charged in a US spy case.",
+   "sub": ""
+  },
+  {
+   "n": 21,
+   "place": "GAZA",
+   "topic": "",
+   "region": "MIDEAST",
+   "headline": "Allies urge aid access; crossings shut.",
+   "sub": ""
+  },
+  {
+   "n": 22,
+   "place": "GAZA",
+   "topic": "",
+   "region": "MIDEAST",
+   "headline": "Israeli tanks cross the Yellow Line; Hamas objects.",
+   "sub": ""
+  },
+  {
+   "n": 23,
+   "place": "PYONGYANG",
+   "topic": "",
+   "region": "ASIA-PACIFIC",
+   "headline": "North Korea expands uranium enrichment.",
+   "sub": ""
+  },
+  {
+   "n": 24,
+   "place": "SANTA CLARA",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "Kress promises pay rises in December.",
+   "sub": ""
+  },
+  {
+   "n": 25,
+   "place": "SEATTLE",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "$500m ByteDance AI deal nears; House objects.",
+   "sub": ""
+  },
+  {
+   "n": 26,
+   "place": "NEW DELHI",
+   "topic": "",
+   "region": "ASIA-PACIFIC",
+   "headline": "Apple Maps adds 300 3D landmarks.",
+   "sub": ""
+  },
+  {
+   "n": 27,
+   "place": "LONDON",
+   "topic": "",
+   "region": "EUROPE",
+   "headline": "Bailey warns of rate rise as inflation hits 3.6%.",
+   "sub": ""
+  },
+  {
+   "n": 28,
+   "place": "WASHINGTON",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "FBI: ARTEX breaches in under 3 hours.",
+   "sub": ""
+  },
+  {
+   "n": 29,
+   "place": "BRUSSELS",
+   "topic": "",
+   "region": "EUROPE",
+   "headline": "EU states propose a Rwanda asylum plan.",
+   "sub": ""
+  },
+  {
+   "n": 30,
+   "place": "RIYADH",
+   "topic": "",
+   "region": "MIDEAST",
+   "headline": "Brent falls below $92 as US stockpiles swell.",
+   "sub": ""
+  },
+  {
+   "n": 31,
+   "place": "PHOENIX",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "Waymo halts freeway rides after California ban.",
+   "sub": ""
+  },
+  {
+   "n": 32,
+   "place": "SPACE",
+   "topic": "",
+   "region": "WORLD",
+   "headline": "Two stars merge in Andromeda; Webb sees 'Bao'.",
+   "sub": ""
+  },
+  {
+   "n": 33,
+   "place": "NASHVILLE",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "Langley sweeps CMA Awards with six wins.",
+   "sub": ""
+  },
+  {
+   "n": 34,
+   "place": "NEW DELHI",
+   "topic": "",
+   "region": "ASIA-PACIFIC",
+   "headline": "Sindhu reaches world No. 5 after four years.",
+   "sub": ""
+  },
+  {
+   "n": 35,
+   "place": "S\u00c3O PAULO",
+   "topic": "",
+   "region": "THE AMERICAS",
+   "headline": "Corinthians win 4-0; Kaio C\u00e9sar hat-trick.",
+   "sub": ""
+  },
+  {
+   "n": 36,
+   "place": "TALLINN",
+   "topic": "",
+   "region": "EUROPE",
+   "headline": "Estonia closes border Dec 1 after GRU plot.",
+   "sub": ""
+  },
+  {
+   "n": 37,
+   "place": "NEW DELHI",
+   "topic": "",
+   "region": "ASIA-PACIFIC",
+   "headline": "Delhi schools reopen as AQI improves to 204.",
+   "sub": ""
+  },
+  {
+   "n": 38,
+   "place": "CRIMEA",
+   "topic": "",
+   "region": "EUROPE",
+   "headline": "Bridge hit again; traffic halted.",
+   "sub": ""
+  },
+  {
+   "n": 39,
+   "place": "BRUSSELS",
+   "topic": "",
+   "region": "ASIA-PACIFIC",
+   "headline": "EU approves Indonesia trade pact.",
+   "sub": ""
+  },
+  {
+   "n": 40,
+   "place": "CANBERRA",
+   "topic": "",
+   "region": "OCEANIA",
+   "headline": "Aussie jobless hits a five-year high.",
+   "sub": ""
+  },
+  {
+   "n": 41,
+   "place": "SOWETO",
+   "topic": "",
+   "region": "AFRICA",
+   "headline": "Floods sweep a man to his death; girl missing.",
+   "sub": ""
+  },
+  {
+   "n": 42,
+   "place": "AUCKLAND",
+   "topic": "",
+   "region": "OCEANIA",
+   "headline": "New Zealand plays first as GTA VI unlocks.",
+   "sub": ""
+  },
+  {
+   "n": 43,
+   "place": "TEHRAN",
+   "topic": "",
+   "region": "MIDEAST",
+   "headline": "Iran defends its strikes on US bases.",
+   "sub": ""
+  }
+ ]
+}
