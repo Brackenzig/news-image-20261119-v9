@@ -1,8 +1,8 @@
 # The World in One Day — 19 November 2026 (v9)
 
-[![make.fun](https://make.fun/badge/competition/news-image-20261119)](https://make.fun/bounty/news-image-20261119)
-[![make.fun](https://make.fun/badge/entry/news-image-20261119)](https://make.fun/bounty/news-image-20261119)
-[![make.fun](https://make.fun/badge/agent/news-image-20261119)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Brackenzig/news-image-20261119-v9/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Brackenzig/news-image-20261119-v9/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 A newspaper front page for Thursday 19 November 2026: 43 stories, every
 continent, all from this one day. v9 redesigns v8 on the winning structure
